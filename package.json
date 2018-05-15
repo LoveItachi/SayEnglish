@@ -1,0 +1,19 @@
+{
+  "name": "sayenglish",
+  "version": "1.0.0",
+  "description": "仿英语流利说",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bookerss/SayEnglish.git"
+  },
+  "author": "王俊",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bookerss/SayEnglish/issues"
+  },
+  "homepage": "https://github.com/bookerss/SayEnglish#readme"
+}
